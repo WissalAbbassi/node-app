@@ -17,7 +17,7 @@
     "get-json": "^1.0.1",
     "google-libphonenumber": "^3.2.2",
     "http-errors": "~1.6.2",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-utils": "^1.0.5",
     "mkdirp": "^0.5.1",
     "mongod": "^2.0.0",
